@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/badge/platform-linux-lightgrey?logo=linux&logoColor=white)](#privileges)
 [![Powered by Textual](https://img.shields.io/badge/TUI-Textual-5f5fff)](https://github.com/Textualize/textual)
 
-![ipchorus screenshot](docs/screenshot.svg)
+![ipchorus screenshot](https://raw.githubusercontent.com/aganet/aganet/main/assets/ipchorus.svg)
 
 ---
 
